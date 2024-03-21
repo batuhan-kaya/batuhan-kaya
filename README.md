@@ -5,7 +5,7 @@ Front-end developer
 -------------------
 
 * 🌍  I'm based in Turkey
-* ✉️  You can contact me at [batuhankaya.dev@gmail.com](mailto:batuhankaya.dev@gmail.com)
+* ✉️  You can contact me at [batuhankaya.dev@gmail.com](mailto:hello@batuhankaya.dev)
 * 🧠  I'm learning React.js
 
 ### Technology and Tools
