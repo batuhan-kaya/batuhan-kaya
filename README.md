@@ -1,5 +1,6 @@
-# Hello
-I'm a software developer who mostly specializes in frontend development. I am pursuing a new career in the time I have left over from my full-time job. Besides being a computer programming student, I also develop open-source projects in my spare time. **I have a keen interest in the JavaScript ecosystem.** I take an active role in the Events and Organization team at Google Developer Student Club. Outside my field, I volunteer at LOSEV and TEMA. If I have spare time, outside my full-time job and all my other commitments, I enjoy playing chess.
+I mostly enjoy developing **front-end** projects. I'm looking for a new career in my spare time from my full-time job. Besides being a **computer programming student**, I develop open source projects in my spare time. I have a keen interest in the **JavaScript ecosystem**. I take an active role in the Events and Organization team at **Google Developer Student Club**. Outside of my field, I volunteer at LOSEV and TEMA. If I have time from my full-time job and all my other pursuits, I play chess.
+
+Translated with DeepL.com (free version)
 
 * ✉️  You can contact me at [hello@batuhankaya.dev](mailto:hello@batuhankaya.dev)
 
