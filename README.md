@@ -1,6 +1,6 @@
 I mostly enjoy developing **front-end** projects. I'm looking for a new career in my spare time from my full-time job. Besides being a **computer programming student**, I develop open source projects in my spare time. I have a keen interest in the **JavaScript ecosystem**. I take an active role in the Events and Organization team at **Google Developer Student Club**. Outside of my field, I volunteer at LOSEV and TEMA. If I have time from my full-time job and all my other pursuits, I play chess.
 
-* ✉️  You can contact me at [hello@batuhankaya.dev](mailto:hello@batuhankaya.dev)
+✉️ You can contact me at [hello@batuhankaya.dev](mailto:hello@batuhankaya.dev)
 
 ### Technology and Tools
 
